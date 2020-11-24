@@ -1,0 +1,10 @@
+C:\Users\Ichi\source\repos\GachalogDownloader\bin\Release\netcoreapp3.0\GachalogDownloader.exe
+C:\Users\Ichi\source\repos\GachalogDownloader\bin\Release\netcoreapp3.0\GachalogDownloader.deps.json
+C:\Users\Ichi\source\repos\GachalogDownloader\bin\Release\netcoreapp3.0\GachalogDownloader.runtimeconfig.json
+C:\Users\Ichi\source\repos\GachalogDownloader\bin\Release\netcoreapp3.0\GachalogDownloader.runtimeconfig.dev.json
+C:\Users\Ichi\source\repos\GachalogDownloader\bin\Release\netcoreapp3.0\GachalogDownloader.dll
+C:\Users\Ichi\source\repos\GachalogDownloader\bin\Release\netcoreapp3.0\GachalogDownloader.pdb
+C:\Users\Ichi\source\repos\GachalogDownloader\obj\Release\netcoreapp3.0\GachalogDownloader.AssemblyInfoInputs.cache
+C:\Users\Ichi\source\repos\GachalogDownloader\obj\Release\netcoreapp3.0\GachalogDownloader.AssemblyInfo.cs
+C:\Users\Ichi\source\repos\GachalogDownloader\obj\Release\netcoreapp3.0\GachalogDownloader.dll
+C:\Users\Ichi\source\repos\GachalogDownloader\obj\Release\netcoreapp3.0\GachalogDownloader.pdb
